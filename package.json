@@ -1,5 +1,5 @@
 {
-  "name": "@lobehub/assets",
+  "name": "@griothub/assets",
   "version": "0.0.0",
   "private": true,
   "description": "Logo assets, favicons, webfonts for LobeHub",
@@ -10,11 +10,11 @@
   ],
   "homepage": "https://github.com/lobehub/lobe-assets",
   "bugs": {
-    "url": "https://github.com/lobehub/lobe-assets/issues/new"
+    "url": "https://github.com/sergewilfried/lobe-assets/issues/new"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/lobehub/lobe-assets.git"
+    "url": "https://github.com/sergewilfried/lobe-assets.git"
   },
   "license": "MIT",
   "author": "LobeHub <i@lobehub.com>",
